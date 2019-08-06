@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: hudson.plugins.filesystem_scm:filesystem_scm:1.21-alpha-1">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/hudson/plugins/filesystem_scm/filesystem_scm/1.21-alpha-1/filesystem_scm-1.21-alpha-1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/hudson/plugins/filesystem_scm/filesystem_scm/1.21-alpha-1/filesystem_scm-1.21-alpha-1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/hudson/plugins/filesystem_scm/filesystem_scm/1.21-alpha-1/filesystem_scm-1.21-alpha-1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

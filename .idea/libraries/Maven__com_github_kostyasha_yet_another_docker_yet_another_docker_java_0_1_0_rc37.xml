@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.github.kostyasha.yet-another-docker:yet-another-docker-java:0.1.0-rc37">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/kostyasha/yet-another-docker/yet-another-docker-java/0.1.0-rc37/yet-another-docker-java-0.1.0-rc37.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/kostyasha/yet-another-docker/yet-another-docker-java/0.1.0-rc37/yet-another-docker-java-0.1.0-rc37-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/kostyasha/yet-another-docker/yet-another-docker-java/0.1.0-rc37/yet-another-docker-java-0.1.0-rc37-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
